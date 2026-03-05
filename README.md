@@ -16,7 +16,7 @@ This project invovlves visualizations and predictions made related to a Bank csv
 
 ## How to Run the Project
 Through Anaconda Prompt:
-1. Clone the repository: git clone https://github.com/username/data_science_P1.git
+1. Clone the repository: git clone https://github.com/amaranth-cmd/data_science_P1.git
 2. Navigate to the Project folder: cd data_science_P1
 3. Activate an Anaconda environment (optional but recommended): conda activate myenv
 4. Install required libraries: pip install pandas numpy matplotlib seaborn scikit-learn
